@@ -1,0 +1,35 @@
+{
+    "points": [
+        { 
+            "id": 1, 
+            "lon": 14.3922919, 
+            "lat": 50.1030236, 
+            "antennaHeight": 40
+        },
+        { 
+            "id": 2, 
+            "lon": 14.4652642, 
+            "lat": 50.1364347, 
+            "antennaHeight": 45
+        },
+        { 
+            "id": 3, 
+            "lon": 14.4159406, 
+            "lat": 50.1794381, 
+            "antennaHeight": 25
+        },
+        { 
+            "id": 4, 
+            "lon": 14.3857789, 
+            "lat": 50.1896308, 
+            "antennaHeight": 15
+        },
+        { 
+            "id": 5, 
+            "lon": 14.3663500, 
+            "lat": 50.1936000, 
+            "antennaHeight": 8
+        }
+    ],
+    "profileStepSize": 1
+}
