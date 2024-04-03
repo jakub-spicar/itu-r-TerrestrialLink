@@ -113,6 +113,7 @@ numpy=1.26.4=py312h8442bc7_0
 openjpeg=2.5.2=h9f1df11_0
 openssl=3.2.1=h0d3ecfb_1
 packaging=24.0=pyhd8ed1ab_0
+pandas=2.2.1=py312h88edd18_0
 pcre2=10.43=h26f9a81_0
 pillow=10.2.0=py312hac22aec_0
 pip=24.0=pyhd8ed1ab_0
@@ -125,7 +126,9 @@ pthread-stubs=0.4=h27ca646_1001
 pyparsing=3.1.2=pyhd8ed1ab_0
 python=3.12.2=hdf0ec26_0_cpython
 python-dateutil=2.9.0=pyhd8ed1ab_0
+python-tzdata=2024.1=pyhd8ed1ab_0
 python_abi=3.12=4_cp312
+pytz=2024.1=pyhd8ed1ab_0
 re2=2023.09.01=h4cba328_2
 readline=8.2=h92ec313_1
 setuptools=69.2.0=pyhd8ed1ab_0
